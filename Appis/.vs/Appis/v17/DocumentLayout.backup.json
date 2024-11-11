@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor\\source\\repos\\Appis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\infraestrutura\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\infraestrutura\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\model\\deeplinkextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\model\\deeplinkextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\model\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\model\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\model\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\model\\secao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\viewmodel\\secaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\viewmodel\\secaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\viewmodel\\notificacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\viewmodel\\notificacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\viewmodel\\deeplinkviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\viewmodel\\deeplinkviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\model\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\model\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|c:\\users\\victor\\source\\repos\\appis\\appis\\appis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43DD8290-B366-43C2-B02F-B93C806329D5}|Appis\\Appis.csproj|solutionrelative:appis\\appis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecaoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\SecaoViewModel.cs",
+              "RelativeDocumentMoniker": "Appis\\ViewModel\\SecaoViewModel.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\SecaoViewModel.cs",
+              "RelativeToolTip": "Appis\\ViewModel\\SecaoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:22:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "Appis\\ViewModel\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeToolTip": "Appis\\ViewModel\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:23:55.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Infraestrutura\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Appis\\Infraestrutura\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Infraestrutura\\UsuarioRepository.cs",
+              "RelativeToolTip": "Appis\\Infraestrutura\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:04:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Notificacao.cs",
+              "RelativeDocumentMoniker": "Appis\\Model\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Notificacao.cs*",
+              "RelativeToolTip": "Appis\\Model\\Notificacao.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:17:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Secao.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Secao.cs",
+              "RelativeDocumentMoniker": "Appis\\Model\\Secao.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Secao.cs",
+              "RelativeToolTip": "Appis\\Model\\Secao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:09:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Appis\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\Usuario.cs",
+              "RelativeToolTip": "Appis\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:06:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeepLinkExtra.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\DeepLinkExtra.cs",
+              "RelativeDocumentMoniker": "Appis\\Model\\DeepLinkExtra.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\DeepLinkExtra.cs",
+              "RelativeToolTip": "Appis\\Model\\DeepLinkExtra.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:23:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeepLinkViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\DeepLinkViewModel.cs",
+              "RelativeDocumentMoniker": "Appis\\ViewModel\\DeepLinkViewModel.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\DeepLinkViewModel.cs",
+              "RelativeToolTip": "Appis\\ViewModel\\DeepLinkViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:34:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificacaoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\NotificacaoViewModel.cs",
+              "RelativeDocumentMoniker": "Appis\\ViewModel\\NotificacaoViewModel.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\ViewModel\\NotificacaoViewModel.cs",
+              "RelativeToolTip": "Appis\\ViewModel\\NotificacaoViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:28:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Appis\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Appis\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA3wBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:17:09.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "Appis\\Infraestrutura\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeToolTip": "Appis\\Infraestrutura\\ConnectionContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:39:54.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Appis\\Model\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Model\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Appis\\Model\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:37:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Program.cs",
+              "RelativeDocumentMoniker": "Appis\\Program.cs",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Program.cs",
+              "RelativeToolTip": "Appis\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:14:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appis",
+              "DocumentMoniker": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Appis.csproj",
+              "RelativeDocumentMoniker": "Appis\\Appis.csproj",
+              "ToolTip": "C:\\Users\\victor\\source\\repos\\Appis\\Appis\\Appis.csproj",
+              "RelativeToolTip": "Appis\\Appis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T19:04:35.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

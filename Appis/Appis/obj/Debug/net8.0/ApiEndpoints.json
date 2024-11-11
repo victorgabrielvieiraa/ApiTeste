@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Appis.Controllers.UsuarioController",
+    "Method": "Add",
+    "RelativePath": "api/v1/usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioView",
+        "Type": "Appis.ViewModel.UsuarioViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
